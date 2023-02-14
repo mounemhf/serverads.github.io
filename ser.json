@@ -6,13 +6,13 @@
     "retry_vpn_counter": 1,
     "vpn_country": "USA",
     "serversList": [
-        "https://fastupload.io/download/EQN9mE76Zz6dW/VPAgdvgk17o4t20/Ashburn.ovpn",
-        "https://fastupload.io/download/nZ9dzB7WqGk1b/RhkYVrbbm47Kdo7/Toronto.ovpn",
-        "https://fastupload.io/download/db5Ozd5MWGB8L/z5MkWGvaFUxNeCY/Frankfurt.ovpn",
-        "https://fastupload.io/download/7RMKGJ7w8m1oP/UshpXXtNT0BvCvq/London.ovpn",
-        "https://fastupload.io/download/O9QWmp5lk3EB6/XFeo8k6Mshor60S/New%20York.ovpn",
-        "https://fastupload.io/download/1k0emb5d8GVb4/WVaSyNKBpyDEBRT/Singapore.ovpn",
-        "https://fastupload.io/download/vPbe3P719mlX6/pcsboigAwjf59Sk/Singapore2.ovpn"
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Ashburn.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Toronto.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Frankfurt.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/London.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Singapore.ovpn",
+        "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Singapore2.ovpn"
     ]
   }
 }
