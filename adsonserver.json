@@ -1,0 +1,31 @@
+{
+  "OnOff": 1,
+  
+  "OneSignalId": "",
+  
+  "UpdateTo": "",
+  
+  "TradAdAppId": "C29068A5CB17E51A0CA779E9351A4431",
+  
+  "TradAdNative": "01004EA7C97A1EC138440CB8AE778275",
+  
+  "TradAdInter": "19BEE43FF302FB049ADECE3795395F7A",
+  
+  "TradAdBanner": "5389F103F5D8C32981E6287CC543CBDD",
+  
+  "AdmobInt": "ca-app-pub-3940256099942544/1033173712",
+  
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+  
+  "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+  
+  "UnityGameId": "",
+  
+  "ApplovinBanner": "27c78cf7bca96424",
+  
+  "ApplovinInt": "1bf625c6eeef87a6",
+  
+  "ApplovinNative": "68c3082eb66927a9",
+  
+  "SelectedNetwork": 1
+}
