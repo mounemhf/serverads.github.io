@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "pangle",
+    "AdNetwork"               : "applovin",
     
     "AdMob_ID"                : "pub-3940256099942544",
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
@@ -14,10 +14,10 @@
     "Facebook_Native"         : "692961278482629_857100538735368",
     "Facebook_RewardAd"       : "692961278482629_857106118734810",
     
-    "Applovin_Banner"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
-    "Applovin_Native"         : "76af75d288a7ada9",
-    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Banner"         : "27c78cf7bca96424",
+    "Applovin_InterstitialAd" : "1bf625c6eeef87a6",
+    "Applovin_Native"         : "68c3082eb66927a9",
+    "Applovin_RewardAd"       : "6c51a1a0d8a693dc",
     
     "Pangle_AppKey"           : "8025677",
     "Pangle_Banner"           : "980099802",
