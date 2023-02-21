@@ -1,67 +1,111 @@
 {
   "ConnectionType": "US-Boston",
-  "VpnUserName"   :"ncpamine2021r@namecheap",
-  "VpnPassword"   :"FIvEEvmvCe",
+  "VpnUserName"   :"YLZjnYKdWmXDNM8geNVAg5Tk",
+  "VpnPassword"   :"mR6yTju4Zyaw25r4DF3ruckj",
   "VpnFiles": [
     {
       "vpnName": "US-Boston",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-New York-UDP.ovpn"
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-adl.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
       "vpnName": "US-Charlotte",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Charlotte.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-mel.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
       "vpnName": "US-Chicago",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Chicago.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-bne.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
       "vpnName": "US-Cincinnati",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Cincinnati.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-mon.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
       "vpnName": "US-Dallas",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Dallas.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-tor.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
       "vpnName": "US-Denver",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Denver.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-van.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     },
     {
-      "vpnName": "US-LasVegas",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Las%20Vegas.ovpn"
+      "vpnName": "UK-LasVegas",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/uk-gla.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-LosAngele",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Los%20Angele.ovpn"
+      "vpnName": "UK-Lo",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/uk-lon.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Miami",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Miami.ovpn"
+      "vpnName": "UK-Miami",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/uk-man.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-NewOrleans",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20Orleans.ovpn"
+      "vpnName": "US-Ashburn",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-ash.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-NewYork",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20York.ovpn"
+      "vpnName": "US-Atlanta",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-atl.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Phoenix",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Phoenix.ovpn"
+      "vpnName": "US-Bdn",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-bdn.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-SanJose",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-San%20Jose.ovpn"
+      "vpnName": "US-BOSTON",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-bos.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Seattle",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Seattle.ovpn"
+      "vpnName": "US-buf",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-buf.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "ZA-Johannesburg",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/ZA-Johannesburg.ovpn"
+      "vpnName": "US-chi",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-chi.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-ctl",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-clt.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-dal",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-dal.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-den",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-den.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-dtw",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-dtw.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-kan",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-dtw.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-las",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-las.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-lax",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-lax.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-ltm",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-ltm.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-mia",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-mia.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-nyc",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-nyc.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-orl",
+      "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-orl.prod.surfshark.com_tcp.ovpn"
     }
   ]
 }
