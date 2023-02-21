@@ -1,0 +1,67 @@
+{
+  "ConnectionType": "US-Boston",
+  "VpnUserName"   :"ncpamine2021r@namecheap",
+  "VpnPassword"   :"FIvEEvmvCe",
+  "VpnFiles": [
+    {
+      "vpnName": "US-Boston",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-New York-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Charlotte",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Charlotte.ovpn"
+    },
+    {
+      "vpnName": "US-Chicago",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Chicago.ovpn"
+    },
+    {
+      "vpnName": "US-Cincinnati",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Cincinnati.ovpn"
+    },
+    {
+      "vpnName": "US-Dallas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Dallas.ovpn"
+    },
+    {
+      "vpnName": "US-Denver",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Denver.ovpn"
+    },
+    {
+      "vpnName": "US-LasVegas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Las%20Vegas.ovpn"
+    },
+    {
+      "vpnName": "US-LosAngele",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Los%20Angele.ovpn"
+    },
+    {
+      "vpnName": "US-Miami",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Miami.ovpn"
+    },
+    {
+      "vpnName": "US-NewOrleans",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20Orleans.ovpn"
+    },
+    {
+      "vpnName": "US-NewYork",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20York.ovpn"
+    },
+    {
+      "vpnName": "US-Phoenix",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Phoenix.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-San%20Jose.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Seattle.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/ZA-Johannesburg.ovpn"
+    }
+  ]
+}
