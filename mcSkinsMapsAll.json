@@ -2,14 +2,35 @@
   "AdsController": {
       
     "AdNetwork"               : "Applovin",
+    "AdMob_ID"                : "pub-3940256099942544",
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810",
    
     "Applovin_Banner"         : "27c78cf7bca96424",
     "Applovin_InterstitialAd" : "1bf625c6eeef87a6",
     "Applovin_Native"         : "68c3082eb66927a9",
     "Applovin_RewardAd"       : "6c51a1a0d8a693dc",
     
-  
+    "Pangle_AppKey"           : "8025677",
+    "Pangle_Banner"           : "980099802",
+    "Pangle_InterstitialAd"   : "980088188",
+    "Pangle_Native"           : "980088216",
+    "Pangle_RewardAd"         : "980088192",
+
+    
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "Rewarded_Android",
+
+    "IronSourceKey"          : "1197d7c85"
   },
   
   "Maps": [
