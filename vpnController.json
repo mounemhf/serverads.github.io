@@ -6,10 +6,6 @@
     {
       "vpnName": "US-Boston",
       "vpnFile":  "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-tpa.prod.surfshark.com_tcp.ovpn"
-    },
-    {
-      "vpnName": "US-Charlotte",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-stl.prod.surfshark.com_tcp.ovpn"
     }
   ]
 }
