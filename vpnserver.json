@@ -1,66 +1,51 @@
 {
-  "ConnectionType": "US-Boston",
+  "ConnectionType": "",
   "VpnUserName"   :"YLZjnYKdWmXDNM8geNVAg5Tk",
   "VpnPassword"   :"mR6yTju4Zyaw25r4DF3ruckj",
   "VpnFiles": [
     {
-      "vpnName": "US-Boston",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-bdn.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Charlotte",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-buf.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Chicago",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-chi.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Cincinnati",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-dal.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Dallas",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-den.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Denver",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-den.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-LasVegas",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-dtw.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-LosAngele",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-kan.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Miami",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-las.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-NewOrleans",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-lax.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-NewYork",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-ltm.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Phoenix",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-mia.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-SanJose",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-nyc.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "US-Seattle",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-orl.prod.surfshark.com_tcp.ovpn"
     },
     {
-      "vpnName": "ZA-Johannesburg",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-phx.prod.surfshark.com_tcp.ovpn"
     }
   ]
