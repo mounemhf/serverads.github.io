@@ -1,67 +1,67 @@
 {
   "ConnectionType": "US-Boston",
-  "VpnUserName"   :"ncpamine2021r@namecheap",
-  "VpnPassword"   :"FIvEEvmvCe",
+  "VpnUserName"   :"VGKPMZ40W2",
+  "VpnPassword"   :"Y0@ag50YQh1Xt)",
   "VpnFiles": [
     {
       "vpnName": "US-Boston",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-New York-UDP.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Ashburn.ovpn"
     },
     {
       "vpnName": "US-Charlotte",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Charlotte.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Frankfurt.ovpn"
     },
     {
       "vpnName": "US-Chicago",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Chicago.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/London.ovpn"
     },
     {
       "vpnName": "US-Cincinnati",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Cincinnati.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     },
     {
       "vpnName": "US-Dallas",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Dallas.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Singapore.ovpn"
     },
     {
       "vpnName": "US-Denver",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Denver.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Singapore2.ovpn"
     },
     {
       "vpnName": "US-LasVegas",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Las%20Vegas.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Toronto.ovpn"
     },
     {
       "vpnName": "US-LosAngele",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Los%20Angele.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     },
     {
       "vpnName": "US-Miami",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Miami.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Frankfurt.ovpn"
     },
     {
       "vpnName": "US-NewOrleans",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20Orleans.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Ashburn.ovpn"
     },
     {
       "vpnName": "US-NewYork",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-New%20York.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/Ashburn.ovpn"
     },
     {
       "vpnName": "US-Phoenix",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Phoenix.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     },
     {
       "vpnName": "US-SanJose",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-San%20Jose.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     },
     {
       "vpnName": "US-Seattle",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/US-Seattle.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     },
     {
       "vpnName": "ZA-Johannesburg",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/Vpn/ZA-Johannesburg.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/New%20York.ovpn"
     }
   ]
 }
