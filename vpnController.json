@@ -174,6 +174,70 @@
     {
       "vpnName": "CA-mont22",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10105.nordvpn.com.tcp443.ovpn"
-    }
+    }, 
+    {
+  "vpnName": "US-Denver10103",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10103.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10104",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10104.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10105",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10105.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10106",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10106.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10107",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10107.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10108",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10108.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10109",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10109.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10110",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10110.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10111",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10111.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10112",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10112.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10113",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10113.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10114",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10114.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10115",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10115.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10116",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10116.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10117",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10117.nordvpn.com.tcp443.ovpn"
+},
+{
+  "vpnName": "US-Denver10118",
+  "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10118.nordvpn.com.tcp443.ovpn"
+}
   ]
 }
