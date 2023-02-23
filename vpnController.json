@@ -32,7 +32,7 @@
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us2929.nordvpn.com.tcp443.ovpn"
     },
     {
-      "vpnName": "US-LosAngele",
+      "vpnName": "US-LosAngele", 
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us2933.nordvpn.com.tcp443.ovpn"
     },
     {
