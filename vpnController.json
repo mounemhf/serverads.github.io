@@ -173,7 +173,7 @@
     },
     {
       "vpnName": "CA-mont22",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10100.nordvpn.com.tcp443.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10105.nordvpn.com.tcp443.ovpn"
     }
   ]
 }
