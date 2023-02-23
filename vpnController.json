@@ -62,6 +62,30 @@
     {
       "vpnName": "ZA-Johannesburg",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/us-phx.prod.surfshark.com_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-NewOrleans11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-mon.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-NewYork11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-tor.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-Phoenix11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/ca-van.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-syd.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle1"
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-per.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serverads.github.io/main/au-mel.prod.surfshark.comsurfshark_openvpn_tcp.ovpn"
     }
   ]
 }
