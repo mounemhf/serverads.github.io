@@ -110,6 +110,70 @@
     {
       "vpnName": "US-Los",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10015.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Charlotte1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10017.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Chicago1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10018.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Cincinnati1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10019.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Dallas1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10021.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Denver1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10023.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-LasVegas1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10025.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-LosAngel1e", 
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10026.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Miami1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10027.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-NewOrleans1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10028.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-NewYork11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10030.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Phoenix1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10046.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10047.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10048.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10050.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Newyork21",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10052.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "CA-mont22",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10100.nordvpn.com.tcp443.ovpn"
     }
   ]
 }
