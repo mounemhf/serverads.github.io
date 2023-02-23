@@ -62,54 +62,6 @@
     {
       "vpnName": "ZA-Johannesburg",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_new_jersey_-_3_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Newyork",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_new_york_udp.ovpn"
-    },
-    {
-      "vpnName": "CA-mont",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_canada_-_montreal_udp.ovpn"
-    },
-    {
-      "vpnName": "CA-Tor",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_canada_-_toronto_-_2_udp.ovpn"
-    },
-    {
-      "vpnName": "CA-Tor1",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_canada_-_toronto_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Alb",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_albuquerque_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Atala",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_atlanta_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Ncs",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_chicago_udp.ovpn"
-    },
-    {
-      "vpnName": "US-dal",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_dallas_-_2_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Dal1",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_dallas_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Dnv",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_denver_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Park",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_lincoln_park_udp.ovpn"
-    },
-    {
-      "vpnName": "US-Los",
-      "vpnFile": "https://raw.githubusercontent.com/mounemhf/serve/main/my_expressvpn_usa_-_los_angeles_-_1_udp.ovpn"
     }
   ]
 }
