@@ -62,6 +62,54 @@
     {
       "vpnName": "ZA-Johannesburg",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us4970.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Newyork",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10003.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "CA-mont",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10004.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "CA-Tor",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10006.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "CA-Tor1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10007.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Alb",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10008.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Atala",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10009.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Ncs",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10010.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-dal",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10011.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Dal1",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10012.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Dnv",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10013.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Park",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10014.nordvpn.com.tcp443.ovpn"
+    },
+    {
+      "vpnName": "US-Los",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/esa/main/us10015.nordvpn.com.tcp443.ovpn"
     }
   ]
 }
