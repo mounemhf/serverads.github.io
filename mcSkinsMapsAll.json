@@ -1,13 +1,13 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "Applovin",
+    "AdNetwork"               : "admob",
     
-    "AdMob_ID"                : "pub-3940256099942544",
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_ID"                : "ca-app-pub-6093579767130113~7364924200",
+    "AdMob_Banner"            : "ca-app-pub-6093579767130113/9524508052",
+    "AdMob_InterstitialAd"    : "ca-app-pub-6093579767130113/6907945392",
+    "AdMob_Native"            : "ca-app-pub-6093579767130113/9201074422",
+    "AdMob_RewardAd"          : "ca-app-pub-6093579767130113/9293947182",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
