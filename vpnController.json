@@ -62,6 +62,62 @@
     {
       "vpnName": "ZA-Johannesburg",
       "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-US-Las%20Vegas-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-NewYork11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%201-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Phoenix11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%202-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%203-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%205-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg11",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%206-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle21",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-London%207-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg21",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-UK-Manchester-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose55",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-AU-Melbourne-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Seattl55e",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-AU-Sydney%201-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "ZA-Johannesburg55",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-AU-Sydney%202-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-NewYork115",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-CA-Montreal-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Phoenix115",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-CA-Toronto%201-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose114",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-CA-Toronto%202-TUN-443.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle113",
+      "vpnFile": "https://raw.githubusercontent.com/mounemhf/pr/main/PrivateVPN-CA-Vancouver-TUN-443.ovpn"
     }
   ]
 }
