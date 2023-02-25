@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "admob",
+    "AdNetwork"               : "pangle",
     
     "AdMob_ID"                : "ca-app-pub-6093579767130113~7364924200",
     "AdMob_Banner"            : "ca-app-pub-6093579767130113/9524508052",
@@ -19,11 +19,11 @@
     "Applovin_Native"         : "68c3082eb66927a9",
     "Applovin_RewardAd"       : "6c51a1a0d8a693dc",
     
-    "Pangle_AppKey"           : "8025677",
-    "Pangle_Banner"           : "980099802",
-    "Pangle_InterstitialAd"   : "980088188",
-    "Pangle_Native"           : "980088216",
-    "Pangle_RewardAd"         : "980088192",
+    "Pangle_AppKey"           : "8115273",
+    "Pangle_Banner"           : "980402436",
+    "Pangle_InterstitialAd"   : "980402433",
+    "Pangle_Native"           : "980402437",
+    "Pangle_RewardAd"         : "980402435",
 
     
     "Unity_GameID"           : "4076527",
