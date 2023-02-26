@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "pangle",
+    "AdNetwork"               : "facebook",
     
     "AdMob_ID"                : "ca-app-pub-6093579767130113~7364924200",
     "AdMob_Banner"            : "ca-app-pub-6093579767130113/9524508052",
@@ -9,10 +9,10 @@
     "AdMob_Native"            : "ca-app-pub-6093579767130113/9201074422",
     "AdMob_RewardAd"          : "ca-app-pub-6093579767130113/9293947182",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
-    "Facebook_RewardAd"       : "692961278482629_857106118734810",
+    "Facebook_Banner"         : "725425208102262_725426668102116",
+    "Facebook_InterstitialAd" : "725425208102262_725425888102194",
+    "Facebook_Native"         : "725425208102262_758110404833742",
+    "Facebook_RewardAd"       : "725425208102262_1194776751167103",
    
     "Applovin_Banner"         : "27c78cf7bca96424",
     "Applovin_InterstitialAd" : "1bf625c6eeef87a6",
