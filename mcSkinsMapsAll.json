@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "unity",
+    "AdNetwork"               : "IronSource",
     
     "AdMob_ID"                : "ca-app-pub-6093579767130113~7364924200",
     "AdMob_Banner"            : "ca-app-pub-6093579767130113/9524508052",
@@ -31,7 +31,7 @@
     "Unity_InterstitialAd"   : "InterstitialAd",
     "Unity_RewardAd"         : "Rewarded_Android",
 
-    "IronSourceKey"          : "1197d7c85"
+    "IronSourceKey"          : "18deda3fd"
   },
   
   "Maps": [
