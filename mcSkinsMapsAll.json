@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "admob",
+    "AdNetwork"               : "unity",
     
     "AdMob_ID"                : "ca-app-pub-6093579767130113~7364924200",
     "AdMob_Banner"            : "ca-app-pub-6093579767130113/9524508052",
@@ -26,7 +26,7 @@
     "Pangle_RewardAd"         : "980402435",
 
     
-    "Unity_GameID"           : "4076527",
+    "Unity_GameID"           : "5183497",
     "Unity_Banner"           : "BannerAd",
     "Unity_InterstitialAd"   : "InterstitialAd",
     "Unity_RewardAd"         : "Rewarded_Android",
